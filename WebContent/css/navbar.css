@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+.navbar-nav.navbar-center {
+	position: absolute;
+	left: 50%;
+	transform: translatex(-50%);
+	
+}
